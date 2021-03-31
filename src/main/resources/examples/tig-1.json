@@ -1,0 +1,22 @@
+[{
+	"id":"107",
+	"region":"North",
+	"wereda":"Adwa",
+	"kebelle":"04_Keb",
+	"Totalpopulation":"25000"
+},
+{
+	"id":"108",
+	"region":"West",
+	"wereda":"Humera",
+	"kebelle":"02_Keb",
+	"Totalpopulation":"85000"
+},
+{
+	"id":"109",
+	"region":"South",
+	"wereda":"Alamata",
+	"kebelle":"02_Keb",
+	"Totalpopulation":"55000"
+}
+]
